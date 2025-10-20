@@ -7,6 +7,7 @@
       "name": "Admin User",
       "email": "admin@example.com",
       "phone": "01700000000"
+"picture": "https://randomuser.me/api/portraits/women/44.jpg"
     }
   },
   {
