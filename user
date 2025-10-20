@@ -1,19 +1,24 @@
 [
   {
-    "id": 1,
     "username": "admin",
-    "password": "123456",
-    "expireDate": "2025-12-31",
-    "blocked": false,
-    "createdAt": "2025-10-20T12:00:00Z"
+    "password": "admin123",
+    "block": false,
+    "profile": {
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "phone": "01700000000"
+    }
   },
   {
-    "id": 2,
     "username": "user01",
-    "password": "pass01",
-    "expireDate": "2025-11-30",
-    "blocked": true,
-    "createdAt": "2025-10-15T09:30:00Z"
+    "password": "userpass",
+    "block": true,
+    "profile": {
+      "name": "Sadia Rahman",
+      "email": "sadia@example.com",
+      "phone": "01812345678"
+    }
   }
 ]
+
 
