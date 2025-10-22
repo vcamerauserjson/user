@@ -1,25 +1,26 @@
 [
   {
-    "username": "admin",
-    "password": "admin123",
+    "profile_photo": "https://i.ibb.co/4TgW5rH/user1.jpg",
+    "device_id": "A1B2C3D4E5",
+    "username": "SaniVai",
+    "password": "123456",
     "block": false,
-    "profile": {
-      "name": "Admin User",
-      "email": "admin@example.com",
-      "phone": "01700000000"
-"picture": "https://randomuser.me/api/portraits/women/44.jpg"
-    }
+    "expire_date": "2025-11-30"
   },
   {
-    "username": "user01",
-    "password": "userpass",
+    "profile_photo": "https://i.ibb.co/ZdK1vZX/user2.jpg",
+    "device_id": "Z9Y8X7W6V5",
+    "username": "Rahim",
+    "password": "abcdef",
     "block": true,
-    "profile": {
-      "name": "Sadia Rahman",
-      "email": "sadia@example.com",
-      "phone": "01812345678"
-    }
+    "expire_date": "2025-10-31"
+  },
+  {
+    "profile_photo": "https://i.ibb.co/GvRwX03/user3.jpg",
+    "device_id": "Q1W2E3R4T5",
+    "username": "Karim",
+    "password": "pass2025",
+    "block": false,
+    "expire_date": "2025-12-15"
   }
 ]
-
-
