@@ -1,26 +1,20 @@
 [
   {
-    "profile_photo": "https://i.ibb.co/4TgW5rH/user1.jpg",
-    "device_id": "A1B2C3D4E5",
-    "username": "SaniVai",
-    "password": "123456",
-    "block": false,
-    "expire_date": "2025-11-30"
+    "Device Id": "4c3beff0a6b1224a", 
+    "username": "Admin",
+    "password": "TechMaster",
+    "expiry": "2070-10-15" // DATE FORMAT~ YYYY-MM-DD
   },
   {
-    "profile_photo": "https://i.ibb.co/ZdK1vZX/user2.jpg",
-    "device_id": "Z9Y8X7W6V5",
-    "username": "Rahim",
-    "password": "abcdef",
-    "block": true,
-    "expire_date": "2025-10-31"
+    "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
+    "username": "abc",
+    "password": "101",
+    "expiry": "2026-09-29"
   },
   {
-    "profile_photo": "https://i.ibb.co/GvRwX03/user3.jpg",
-    "device_id": "Q1W2E3R4T5",
-    "username": "Karim",
-    "password": "pass2025",
-    "block": false,
-    "expire_date": "2025-12-15"
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "def",
+    "password": "102",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
   }
 ]
